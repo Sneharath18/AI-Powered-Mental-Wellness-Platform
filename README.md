@@ -4,11 +4,7 @@ CalmMind is a full-stack mental wellness web application that provides patients 
 
 ---
 
-## Team
 
-- Ayesha Nadeem
-- Kainat
-- Yousuf Hussain Khan
 
 ---
 
